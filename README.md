@@ -1,2 +1,3 @@
-# js-pong-mp
+# js-pong
 Pong game in JavaScript
+Multiplayer version
